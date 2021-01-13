@@ -1,3 +1,6 @@
+# this version of the repository is no longer supported as of 1/13/2021 all future updates
+# will be at Wheeler1711/submm_python_routines fork
+
 # submm_python_routines
 Python routines for submm instrumentation astronomy at the University of Colorado Boulder
 
